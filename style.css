@@ -1,0 +1,20 @@
+.point {
+  font-size: 24pt;
+}
+
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  color: navy;
+  margin-left: 43px;
+  background-color: #ff0000;
+}
+
+.main_image{
+border: solid;
+border: 2px dotted;
+border: outset #f33;
+width:230px;
+}
