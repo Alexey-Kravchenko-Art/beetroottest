@@ -3,13 +3,13 @@
 }
 
 body {
-  background-color: lightblue;
+  background-color: green;
 }
 
 h1 {
   color: navy;
   margin-left: 40px;
-  background-color: #ff0000;
+  background-color: #ff1100;
 }
 
 .main_image{
