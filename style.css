@@ -3,7 +3,7 @@
 }
 
 body {
-  background-color: green;
+  background-color: gray;
 }
 
 h1 {
@@ -23,5 +23,6 @@ width:230px;
 border: solid;
 border: 2px dotted;
 border: outset #f33;
+padding:2px;
 width:230px;
 }
