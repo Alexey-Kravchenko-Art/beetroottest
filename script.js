@@ -1,6 +1,7 @@
 function myFunction(){
-		alert('click');
-		var a=3;
-		var b=12;
-		var c=a+b;
+		var a=12*3;
+		var b=100;
+		var c=a*b;
+		alert("result = "  + c)
+		
 	}
