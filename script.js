@@ -5,3 +5,7 @@ function myFunction(){
 		var c=a*b;
 		alert("second alert result = "  + c)
 	}
+	
+function newFunction(){
+	var main = 20
+}
