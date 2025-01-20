@@ -9,3 +9,7 @@ function myFunction(){
 function newFunction(){
 	var main = 20
 }
+
+function demoBranchFunc(){
+	alert('this is demo branch')
+}
