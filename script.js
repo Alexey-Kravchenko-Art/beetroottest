@@ -13,3 +13,7 @@ function newFunction(){
 function demoBranchFunc(){
 	alert('this is demo branch')
 }
+
+function forPullRequest(){
+	var pull = 12
+}
