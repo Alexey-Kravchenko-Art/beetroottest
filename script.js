@@ -11,7 +11,7 @@ function demoBranchFunc(){
 }
 
 function otherFunction(){
-	alert('new function version implemented');
+	alert('this is demo branch');
 	var a=12*3;
 	var b=100;
 	var c=a*b;
