@@ -17,3 +17,7 @@ function otherFunction(){
 	var c=a*b;
 	//alert("second alert result = "  + c)
 }
+
+function sunflowerClick(){
+	
+}
