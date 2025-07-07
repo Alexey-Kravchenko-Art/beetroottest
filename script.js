@@ -19,5 +19,7 @@ function otherFunction(){
 }
 
 function sunflowerClick(){
-	alert("click 1, 2")
+	var a = 3
+	a++
+	alert(a)
 }
