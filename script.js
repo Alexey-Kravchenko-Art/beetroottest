@@ -19,6 +19,8 @@ function otherFunction(){
 }
 
 function sunflowerClick(){
+	var a = 3
+	a++
 	if (10>5)
-	alert("successful result")
+	alert("successful result = " + a)
 }
