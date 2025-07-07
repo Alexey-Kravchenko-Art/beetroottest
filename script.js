@@ -19,5 +19,5 @@ function otherFunction(){
 }
 
 function sunflowerClick(){
-	
+	alert("click")
 }
