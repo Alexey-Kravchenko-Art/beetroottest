@@ -19,6 +19,5 @@ function otherFunction(){
 }
 
 function sunflowerClick(){
-	//alert("simple alert")
 	alert("Task-1234")
 }
