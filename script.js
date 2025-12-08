@@ -19,7 +19,4 @@ function otherFunction(){
 }
 
 function sunflowerClick(){
-	//alert("simple alert")
-	alert("Task 3267")
-	alert("Task-7210-pull-request-demo")
 }
